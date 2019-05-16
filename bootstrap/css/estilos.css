@@ -1,0 +1,85 @@
+body{
+  background-color: #f2f2f2;
+  height: 100%;
+  width: 100%;
+}
+header{
+  width: 100%;
+  margin-bottom: -20px;
+}
+.navbar-inverse {
+  background-color: white;
+  border: none;
+  width: 84%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.logo-img {
+  margin-left: auto;
+  margin-top: auto;
+  width: 100px;
+}
+.img-social {
+  width: 40px;
+  height: 40px;
+}
+li:hover{
+  background-color: gray;
+}
+.navbar-default {
+  background-color: #f5d0a9;
+  width: 84%;
+  border-radius: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+.esquema-musica{
+  background-color: white;
+  width: 84%;
+  border: none;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.areatexto{
+  margin-top: 2px;
+  margin-left: 10px;
+  margin-right: 10px;
+
+}
+.tamm{
+  width: 100%;
+}
+.iconossss{
+font-size: 40px;
+
+}
+.input-group{
+  margin-top: 10px
+}
+.list-group{
+  margin-top: 10px;
+}
+.imagen1{
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+textarea{
+  width: 100%;
+  height: 60px;
+}
+@media (min-width:768px) {
+.navbar-nav{
+  margin: 0 auto;
+  display: table;
+  table-layout: auto;
+  float: none;
+  width: 100%;
+}
+.navbar-nav>li{
+  display: table-cell;
+  float: none;
+  text-align: center;
+}
+}
