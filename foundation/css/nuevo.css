@@ -1,0 +1,93 @@
+body{
+  background-image: url(../img/2.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+.titulo{
+  text-align: left;
+}
+.cabecera{
+    background-color: rgb(173, 216, 230, 0.6);
+    padding: 10px;
+    color: white;
+}
+h3{
+  color:  #ff00bf;
+}
+h6{
+ color:  #ff00bf;
+}
+h2{
+  color: black;
+}
+.listanueva{
+  background-color: rgb(255, 204, 255, 0.2);
+  padding: 5px;
+  margin-top: auto;
+}
+.large-7{
+  background-color: rgb(255, 204, 255, 0.5);
+  padding: 10px;
+
+}
+.list{
+  color: #ff00bf;
+}
+.input-group-label{
+background-color:  #ff00bf;
+color: white;
+}
+
+.logo-img{
+  width: 30%;
+}
+
+img{
+  width: 100%;
+  height: 100%;
+}
+.iconosss{
+  width: 8%;
+  height: 8%;
+}
+.callout{
+  background-color: rgb(255, 204, 255, 0.4);
+}
+.cocinando{
+  padding: 1rem;
+  border-right:  1px solid white;
+}
+.texto1{
+  color: black;
+}
+.segundo{
+  margin-top: 10px;
+  padding: 10px;
+
+ }
+
+.divicion{
+  background-color: rgb(255, 204, 255, 0.4);
+  margin-left: 20px;
+  margin-right: 30px;
+  padding: 10px
+
+}
+.divicion2{
+  margin-left: 20px;
+  margin-right: 30px;
+  padding: 10px
+
+}
+.area2{
+  margin-top: 10px;
+}
+
+#item-historial{
+  margin-left: 10px;
+  margin-top: 10px;
+color:  #ff00bf;
+}
